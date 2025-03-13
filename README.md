@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm YuTing Chen</h1>
 
+- 👨‍💻 AI Engineer | Machine Learning | Computer Vision  
+- 📌 Specializing in AI defect detection, ML, and LLM  
+- 🚀 Passionate about deep learning and AI applications  
+
 
 - 💬 All of my projects are available at [here](https://github.com/jason211346?tab=repositories&q=&type=source)
 
