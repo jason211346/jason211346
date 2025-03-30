@@ -6,6 +6,7 @@
 
 
 - 💬 All of my projects are available at [here](https://github.com/jason211346?tab=repositories&q=&type=source)
+- 💬 More of my resume : [here](https://www.cake.me/jason211346)
 
 - 📫 Reach me **jason211346@gmail.com**
 
